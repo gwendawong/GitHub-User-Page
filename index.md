@@ -20,7 +20,7 @@ Learning/education are *quite* important to me, and, fittingly, I agree with the
 - [X] I have two cats, Pepper and Sodium Chloride, that are pictured [here](/IMG_7572.jpeg).
 - [X] My hobbies include keyboards, like the ones pictured below, camping, pretty drinks, and D&D.
 
-![QK75](https://www.ashkeebs.com/wp-content/uploads/2022/11/b6f7f032e13b4a3be4d08fc57badb260.jpg)
+<img src="https://www.ashkeebs.com/wp-content/uploads/2022/11/b6f7f032e13b4a3be4d08fc57badb260.jpg" alt="QK75" width="200"/>
 
 ![QK100](https://www.switchkeys.com.au/cdn/shop/files/silvercasew_goldenweight.png?v=1700733362&width=2560)
 
