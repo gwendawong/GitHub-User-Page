@@ -9,7 +9,7 @@ I'm a second year at UC San Diego majoring in:
 Learning/education are *quite* important to me, and, fittingly, I agree with the famous quote:
 
 > Knowledge itself is power 
-> - Francis Bacon
+> /- Francis Bacon
 
 ### Experience
 
